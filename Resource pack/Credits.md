@@ -1,9 +1,9 @@
 This Resource pack is the cumulative work of M3RGeo, MagmaGuy, Xenondevs and Kunfury.
 
-**M3RGeo** - Merged the three Resource packs mentioned underneath this entry.
-**MagmaGuy** - Elitemobs Resource pack 
-**Kunfury** - Blep Fishing Resource pack
-**Xenondevs** - NovaRP Resource pack of which the GUI models and Resources were used.
+- **M3RGeo** - Merged the three Resource packs mentioned underneath this entry and added/improved some textures/models.
+- **MagmaGuy** - Elitemobs Resource pack 
+- **Kunfury** - Blep Fishing Resource pack
+- **Xenondevs** - NovaRP Resource pack of which the GUI models and Resources were used.
 
 # Links:
 **Elitemobs Resource pack:**
