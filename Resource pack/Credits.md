@@ -1,4 +1,4 @@
-This Resource pack is the cumilitave work of M3RGeo, MagmaGuy, Xenondevs and Kunfury.
+This Resource pack is the cumulative work of M3RGeo, MagmaGuy, Xenondevs and Kunfury.
 
 **M3RGeo** - Merged the three Resource packs mentioned underneath this entry.
 **MagmaGuy** - Elitemobs Resource pack 
