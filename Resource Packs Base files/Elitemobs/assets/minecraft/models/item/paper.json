@@ -7,7 +7,6 @@
     "overrides":[
  
      {"predicate": {"custom_model_data":31173}, "model":"elitemobs:ui/goldenquestionmark"},
-	 {"predicate": {"custom_model_data":31174}, "model":"elitemobs:primis_map/primis_map"},
 	 {"predicate": {"custom_model_data":31175}, "model":"elitemobs:primis_map/primis_map_1"},
 	 {"predicate": {"custom_model_data":31176}, "model":"elitemobs:primis_map/primis_map_2"},
 	 {"predicate": {"custom_model_data":31177}, "model":"elitemobs:primis_map/primis_map_3"},
@@ -17,7 +16,5 @@
 	 {"predicate": {"custom_model_data":31181}, "model":"elitemobs:primis_map/primis_map_7"},
 	 {"predicate": {"custom_model_data":31182}, "model":"elitemobs:primis_map/primis_map_8"},
 	 {"predicate": {"custom_model_data":31183}, "model":"elitemobs:primis_map/primis_map_9"}
-
-
      ]
 }

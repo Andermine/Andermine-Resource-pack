@@ -1,22 +1,22 @@
 {
     "providers": [
 		
-        {"type": "bitmap", "file": "elitemobs:gui/ranksmenu.png", "ascent": 136, "height": 256, "chars":["򴋺"]},
-        {"type": "bitmap", "file": "elitemobs:gui/repairmenu.png", "ascent": 136, "height": 256, "chars":["󰀪"]},
-        {"type": "bitmap", "file": "elitemobs:gui/scrappermenu.png", "ascent": 136, "height": 256, "chars":["󰀫"]},
-        {"type": "bitmap", "file": "elitemobs:gui/refinemenu.png", "ascent": 136, "height": 256, "chars":["󰀻"]},
-        {"type": "bitmap", "file": "elitemobs:gui/smeltmenu.png", "ascent": 136, "height": 256, "chars":["󰁋"]},
-        {"type": "bitmap", "file": "elitemobs:gui/sellmenu.png", "ascent": 136, "height": 256, "chars":["󰁛"]},
-        {"type": "bitmap", "file": "elitemobs:gui/proceduralitemshop.png", "ascent": 136, "height": 256, "chars":["󰁫"]},
-        {"type": "bitmap", "file": "elitemobs:gui/customitemshop.png", "ascent": 136, "height": 256, "chars":["󰁻"]},
-        {"type": "bitmap", "file": "elitemobs:gui/buyorsell.png", "ascent": 136, "height": 256, "chars":["󰂋"]},
-        {"type": "bitmap", "file": "elitemobs:gui/unbind.png", "ascent": 136, "height": 256, "chars":["󰂛"]},
-        {"type": "bitmap", "file": "elitemobs:gui/arenamenu.png", "ascent": 136, "height": 256, "chars":["󰄋"]},
+        {"type": "bitmap", "file": "elitemobs:gui/ranksmenu", "ascent": 136, "height": 256, "chars":["򴋺"]},
+        {"type": "bitmap", "file": "elitemobs:gui/repairmenu", "ascent": 136, "height": 256, "chars":["󰀪"]},
+        {"type": "bitmap", "file": "elitemobs:gui/scrappermenu", "ascent": 136, "height": 256, "chars":["󰀫"]},
+        {"type": "bitmap", "file": "elitemobs:gui/refinemenu", "ascent": 136, "height": 256, "chars":["󰀻"]},
+        {"type": "bitmap", "file": "elitemobs:gui/smeltmenu", "ascent": 136, "height": 256, "chars":["󰁋"]},
+        {"type": "bitmap", "file": "elitemobs:gui/sellmenu", "ascent": 136, "height": 256, "chars":["󰁛"]},
+        {"type": "bitmap", "file": "elitemobs:gui/proceduralitemshop", "ascent": 136, "height": 256, "chars":["󰁫"]},
+        {"type": "bitmap", "file": "elitemobs:gui/customitemshop", "ascent": 136, "height": 256, "chars":["󰁻"]},
+        {"type": "bitmap", "file": "elitemobs:gui/buyorsell", "ascent": 136, "height": 256, "chars":["󰂋"]},
+        {"type": "bitmap", "file": "elitemobs:gui/unbind", "ascent": 136, "height": 256, "chars":["󰂛"]},
+        {"type": "bitmap", "file": "elitemobs:gui/arenamenu", "ascent": 136, "height": 256, "chars":["󰄋"]},
 
 		
         {
             "type": "bitmap",
-            "file": "elitemobs:ui/space_split.png",
+            "file": "elitemobs:ui/space_split",
             "ascent": -32768,
             "height": -19,
             "chars": [
@@ -26,7 +26,7 @@
 
         {
             "type": "bitmap",
-            "file": "elitemobs:ui/space_split.png",
+            "file": "elitemobs:ui/space_split",
             "ascent": -32768,
             "height": -185,
             "chars": [
