@@ -1,0 +1,6 @@
+{
+    "parent": "item/icons/template",
+    "textures": {
+      "1": "item/icons/corner_bottom_left"
+    }
+}
